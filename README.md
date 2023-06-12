@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/pratamarizki22/my_porto/main/img/profile/cat.webp">
-</p>
-
 <div align="center">
   <h1>Pratama</h1>
 </div>
