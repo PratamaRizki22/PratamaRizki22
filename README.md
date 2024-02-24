@@ -2,7 +2,9 @@
 <p>Welcome to my GitHub page! </br> I'm Pratama Rizki, Tech enthusiast from  <b>Jawa Tengah, Indonesia</b>. I am a student at Yogyakarta Technology University majoring in Informatics and specializing in Intelligent Systems. I am passionate about learning Machine Learning & Linux.
 
 
-<img src="/assets/image.png" alt="Image Alt text" title="Thorfin - vinland saga" width="200">
+
+<img src="/assets/image.png" alt="Image Alt text" title="Thorfin - vinland saga" width="400">
+
 
 
 <h3>👨‍💻 Things I code with</h3>
