@@ -31,6 +31,24 @@
 </div>
 
 <!--START_SECTION:waka-->
+**I Mostly Code in HTML** 
+
+```text
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/PratamaRizki22/PratamaRizki22/master/assets/bar_graph.png)
+
+
+ Last Updated on 24/02/2024 18:38:11 UTC
 <!--END_SECTION:waka-->
 
 <h3>📞📬 Stay in touch</h3>
