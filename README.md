@@ -1,8 +1,7 @@
-<div align="center">
-  <h1>Hello, you can call me Rizki</h1>
-</div>
+<h1>Hello 😎</h1>
+<p>Welcome to my GitHub page! </br> I'm Pratama Rizki, Tech enthusiast from  <b>Jawa Tengah, Indonesia</b>. I am a student at Yogyakarta Technology University majoring in Informatics and specializing in Intelligent Systems. I am passionate about learning Machine Learning & Linux.
 
-
+<h3>👨‍💻 Things I code with</h3>
 <div align="center">
   <a href="https://github.com/pratamarizki22">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratamarizki22&layout=compact&langs_count=20&theme=dracula"/>
