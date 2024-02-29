@@ -31,9 +31,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-339-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-344-blue)
 
 **I'm an Early 🐤** 
 
@@ -81,7 +81,7 @@ Linux                    14 hrs 56 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/PratamaRizki22/PratamaRizki22/master/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2024 18:38:08 UTC
+ Last Updated on 29/02/2024 18:38:02 UTC
 <!--END_SECTION:waka-->
 
 <h3>📞📬 Stay in touch</h3>
