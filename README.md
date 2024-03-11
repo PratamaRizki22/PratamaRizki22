@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm an Early 🐤** 
 
@@ -62,14 +62,14 @@ Sunday                   50 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 32 mins       █████████████████████████   99.46 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Python                   1 hr 12 mins        █████████████████████████   98.44 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -77,7 +77,7 @@ Linux                    3 hrs 33 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/PratamaRizki22/PratamaRizki22/master/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2024 18:39:23 UTC
+ Last Updated on 11/03/2024 18:38:08 UTC
 <!--END_SECTION:waka-->
 
 <h3>📞📬 Stay in touch</h3>
