@@ -62,14 +62,13 @@ Sunday                   50 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   27 mins             ████████████████████████░   95.92 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -77,7 +76,7 @@ Linux                    28 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/PratamaRizki22/PratamaRizki22/master/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2024 18:39:35 UTC
+ Last Updated on 17/03/2024 18:38:43 UTC
 <!--END_SECTION:waka-->
 
 <h3>📞📬 Stay in touch</h3>
