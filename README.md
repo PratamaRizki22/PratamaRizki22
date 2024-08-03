@@ -3,7 +3,7 @@
 
 <img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="200" height="auto">
 
-
+<img src="https://img2.reactor.cc/pics/post/full/Anime-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-Pixel-Art-Pixel-Gif-5756022.gif" alt="beautiful-girl" width="100" height="auto">
 
 📊 **This Week I Spent My Time On** 
 
