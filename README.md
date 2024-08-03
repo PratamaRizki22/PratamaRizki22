@@ -1,6 +1,7 @@
 <h1>Hello 😎</h1>
 <p>Welcome to my GitHub page! </br> I'm Pratama Rizki, Tech enthusiast from  <b>Jawa Tengah, Indonesia</b>. I am a student at Yogyakarta Technology University majoring in Informatics and specializing in Intelligent Systems. I am passionate about learning Machine Learning & unix.</p>
 
+![Funny Cat GIF](https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif)
 
 
 <img src="/assets/image.png" alt="Image Alt text" title="Thorfin - vinland saga" width="400">
