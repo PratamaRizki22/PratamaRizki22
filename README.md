@@ -13,7 +13,7 @@
 
 
 
-<img src="https://img2.reactor.cc/pics/post/full/Anime-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-Pixel-Art-Pixel-Gif-5756022.gif" alt="beautiful-girl" width="100" height="auto">
+<img src="https://i.pinimg.com/originals/24/0e/7f/240e7f147e24826d3e151acfa72309a8.gif" alt="still-learn" width="auto" height="auto">
 
 📊 **This Week I Spent My Time On** 
 
