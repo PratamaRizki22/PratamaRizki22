@@ -37,5 +37,3 @@ Linux                    2 hrs 7 mins        ███████████�
 
  Last Updated on 24/03/2024 18:39:07 UTC
 <!--END_SECTION:waka-->
-
-<h3>📞📬 Stay in touch</h3>
