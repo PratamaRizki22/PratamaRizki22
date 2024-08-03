@@ -25,9 +25,6 @@ Linux                    2 hrs 7 mins        ███████████�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/PratamaRizki22/PratamaRizki22/master/assets/bar_graph.png)
-
-
  Last Updated on 24/03/2024 18:39:07 UTC
 <!--END_SECTION:waka-->
 
