@@ -3,6 +3,7 @@
 
 ![Funny Cat GIF](https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif)
 <img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="300" height="auto">
+<img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="150" height="auto">
 
 
 📊 **This Week I Spent My Time On** 
