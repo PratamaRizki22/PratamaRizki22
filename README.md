@@ -1,9 +1,9 @@
 <h1>Hello 😎</h1>
 <p>Welcome to my GitHub page! </br> I'm Pratama Rizki, Tech enthusiast from  <b>Jawa Tengah, Indonesia</b>. I am a student at Yogyakarta Technology University majoring in Informatics and specializing in Intelligent Systems. I am passionate about learning Machine Learning & unix.</p>
 
-<img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="500" height="auto">
-<img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="300" height="auto">
-<img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="150" height="auto">
+<img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="200" height="auto">
+<img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="100" height="auto">
+<img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="0" height="auto">
 
 
 📊 **This Week I Spent My Time On** 
