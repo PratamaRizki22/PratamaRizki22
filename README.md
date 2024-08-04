@@ -12,7 +12,7 @@
 </table>
 
 
-<img src="https://i.pinimg.com/originals/24/0e/7f/240e7f147e24826d3e151acfa72309a8.gif" alt="still-learn" width="auto" height="auto">
+<img src="https://i.pinimg.com/originals/24/0e/7f/240e7f147e24826d3e151acfa72309a8.gif" alt="still-learn" width="300" height="auto">
 
 📊 **This Week I Spent My Time On** 
 
