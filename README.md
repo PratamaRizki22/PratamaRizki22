@@ -2,7 +2,7 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 150px;">
-      <img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="150" height="auto">
+      <img src="https://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" alt="Funny Cat GIF" width="100" height="auto">
     </td>
     <td style="border: none; vertical-align: top;">
       Welcome to my GitHub page!<br>
