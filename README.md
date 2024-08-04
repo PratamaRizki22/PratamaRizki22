@@ -1,4 +1,4 @@
-<h1>Hello 😎</h1>
+
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 150px;">
